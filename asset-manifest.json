@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Seti/static/css/main.8ee3a119.css",
+    "main.js": "/Seti/static/js/main.46a4d951.js",
+    "static/js/787.d66ebfa0.chunk.js": "/Seti/static/js/787.d66ebfa0.chunk.js",
+    "index.html": "/Seti/index.html",
+    "main.8ee3a119.css.map": "/Seti/static/css/main.8ee3a119.css.map",
+    "main.46a4d951.js.map": "/Seti/static/js/main.46a4d951.js.map",
+    "787.d66ebfa0.chunk.js.map": "/Seti/static/js/787.d66ebfa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee3a119.css",
+    "static/js/main.46a4d951.js"
+  ]
+}
